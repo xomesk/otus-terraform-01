@@ -15,6 +15,6 @@
  
    #### Проверка:
    подставить полученный адре в выводе `terraform output` \
-   `http://внешний_IP/`
+   `http://external_ip_address_node_1_ubuntu/`
  
  
