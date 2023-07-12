@@ -25,7 +25,7 @@ resource "yandex_compute_instance" "node-1-ubuntu" {
   name = "ubuntu"
 
   resources {
-    cores  = 2
+    cores  = 1
     memory = 2
 
 }
